@@ -1,0 +1,17 @@
+.odd-numbers{
+background-color: rgb(240, 154, 159);
+font-family: verdana,"DejaVu Sana",sans-serif;
+font-size: 18px;
+}
+#two {
+color: rgb(11, 11, 212);
+font-size: 36px;
+font-weight: bold;
+}
+.fsize{
+    font-size: 24px;
+}
+#four{
+    background-color: rgb(110, 240, 110);
+    font-weight: bold;
+}
